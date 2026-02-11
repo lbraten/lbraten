@@ -38,10 +38,10 @@
 </div>
 
 <ul>
-  <li>Building an AI in Copilot Studio to analyze and summarize science reports</li>
+  <li>Building a RAG knowledge assistant on Azure AI Foundry: PDF-->Markdown ingest, semantic chunking, retrieval/query pipeline, and evaluation</li>
   <li>Developing my portfolio with React + Astro</li>
   <li>Government IT apprentice focused on growing in tech</li>
-  <li>Click <a href="https://lbraten.github.io/" target="_blank">here</a> to visit my portfolio to read more</li>
+  <li>Click <a href="https://lbraten.xyz/" target="_blank">here</a> to visit my portfolio to read more</li>
 </ul>
 <br>
 
