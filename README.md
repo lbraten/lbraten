@@ -38,7 +38,7 @@
   <li>Focus on frontend development (React, TypeScript, Tailwind)</li>
   <li>Improve user experience (UI/UX) in internal systems</li>
   <li>Interested in IT security and automation</li>
-  <li>Click <a href="https://lbraten.xyz/" target="_blank">here</a> to visit my portfolio to read more</li>
+  <li>Click <a href="https://lbraten.xyz/" target="_blank">here</a> to visit my website to read more</li>
 </ul>
 <br clear="right" />
 <br>
@@ -54,9 +54,9 @@
 
 
 #
-<div align="center">
+<div align="center" style="margin-bottom: 28px;">
   <img style="width:50%; height:auto;" src="Visitors.svg" alt="Visitor Count" />
-</div><br>
+</div>
 
 
 <div align="center">
