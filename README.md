@@ -3,14 +3,14 @@
 </h1>
 
 ```
-                                                █████                                         █████                   
-                                                ▒▒███                                         ▒▒███                    
-                                                ▒███         ██████   ██████   ████████    ███████   ██████  ████████ 
-                                                ▒███        ███▒▒███ ▒▒▒▒▒███ ▒▒███▒▒███  ███▒▒███  ███▒▒███▒▒███▒▒███
-                                                ▒███       ▒███████   ███████  ▒███ ▒███ ▒███ ▒███ ▒███████  ▒███ ▒▒▒ 
-                                                ▒███      █▒███▒▒▒   ███▒▒███  ▒███ ▒███ ▒███ ▒███ ▒███▒▒▒   ▒███     
-                                                ███████████▒▒██████ ▒▒████████ ████ █████▒▒████████▒▒██████  █████    
-                                                ▒▒▒▒▒▒▒▒▒▒▒  ▒▒▒▒▒▒   ▒▒▒▒▒▒▒▒ ▒▒▒▒ ▒▒▒▒▒  ▒▒▒▒▒▒▒▒  ▒▒▒▒▒▒  ▒▒▒▒▒     
+                                        █████                                         █████                   
+                                        ▒▒███                                         ▒▒███                    
+                                        ▒███         ██████   ██████   ████████    ███████   ██████  ████████ 
+                                        ▒███        ███▒▒███ ▒▒▒▒▒███ ▒▒███▒▒███  ███▒▒███  ███▒▒███▒▒███▒▒███
+                                        ▒███       ▒███████   ███████  ▒███ ▒███ ▒███ ▒███ ▒███████  ▒███ ▒▒▒ 
+                                        ▒███      █▒███▒▒▒   ███▒▒███  ▒███ ▒███ ▒███ ▒███ ▒███▒▒▒   ▒███     
+                                        ███████████▒▒██████ ▒▒████████ ████ █████▒▒████████▒▒██████  █████    
+                                        ▒▒▒▒▒▒▒▒▒▒▒  ▒▒▒▒▒▒   ▒▒▒▒▒▒▒▒ ▒▒▒▒ ▒▒▒▒▒  ▒▒▒▒▒▒▒▒  ▒▒▒▒▒▒  ▒▒▒▒▒     
 ```
 
 
@@ -28,6 +28,8 @@
   <img style="width:50%; height:auto;" src="AboutMe.svg" alt="About Me" />
 </div><br>
 
+<img align="right" width="260" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTltcnhubWczbnExNWNjMDZjeW5hNzA5bnBqNndoa2xuYmNvcm0zNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" alt="Cat Typing" />
+
 <ul style="list-style-position: inside; padding-left: 0; margin: 0; text-align: center;">
   <li>IT Operations Apprentice at the Norwegian Directorate for Education (Udir)</li>
   <li>Work with IT support, troubleshooting, and system maintenance</li>
@@ -38,16 +40,10 @@
   <li>Interested in IT security and automation</li>
   <li>Click <a href="https://lbraten.xyz/" target="_blank">here</a> to visit my portfolio to read more</li>
 </ul>
+<br clear="right" />
 <br>
 
 </div>
-<div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTltcnhubWczbnExNWNjMDZjeW5hNzA5bnBqNndoa2xuYmNvcm0zNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" width="200" alt="Cat Typing" 
-
-
-
-
----
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/londer1/profile-readme-generator/main/public/assets/pacman-darksrcset="https://raw.githubusercontent.com/londer1/profile-readme-generator/main/public/assets/phttps://raw.githubusercontent.com/londer1/profile-readme-generator/main/public/assets
@@ -58,7 +54,7 @@
 
 
 #
-<div>
+<div align="center">
   <img style="width:50%; height:auto;" src="Visitors.svg" alt="Visitor Count" />
 </div><br>
 
