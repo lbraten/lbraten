@@ -1,6 +1,18 @@
 <h1 align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&size=30&duration=2000&pause=100&color=9BD8B9&background=B65BFF00&center=true&multiline=true&width=435&height=74&lines=Hiii;I'm+Leander" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&size=30&duration=1000&pause=300&color=9BD8B9&background=B65BFF00&center=true&multiline=true&width=435&height=74&lines=Hiii;I'm:" alt="Typing SVG" /></a>
 </h1>
+
+```
+                                                █████                                         █████                   
+                                                ▒▒███                                         ▒▒███                    
+                                                ▒███         ██████   ██████   ████████    ███████   ██████  ████████ 
+                                                ▒███        ███▒▒███ ▒▒▒▒▒███ ▒▒███▒▒███  ███▒▒███  ███▒▒███▒▒███▒▒███
+                                                ▒███       ▒███████   ███████  ▒███ ▒███ ▒███ ▒███ ▒███████  ▒███ ▒▒▒ 
+                                                ▒███      █▒███▒▒▒   ███▒▒███  ▒███ ▒███ ▒███ ▒███ ▒███▒▒▒   ▒███     
+                                                ███████████▒▒██████ ▒▒████████ ████ █████▒▒████████▒▒██████  █████    
+                                                ▒▒▒▒▒▒▒▒▒▒▒  ▒▒▒▒▒▒   ▒▒▒▒▒▒▒▒ ▒▒▒▒ ▒▒▒▒▒  ▒▒▒▒▒▒▒▒  ▒▒▒▒▒▒  ▒▒▒▒▒     
+```
+
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/londer1/londer1/output/pacman-contribution-graph-dark.svg">
@@ -16,10 +28,14 @@
   <img style="width:50%; height:auto;" src="AboutMe.svg" alt="About Me" />
 </div><br>
 
-<ul>
-  <li>Building a RAG knowledge assistant on Azure AI Foundry: PDF-->Markdown ingest, semantic chunking, retrieval/query pipeline, and evaluation</li>
-  <li>Developing my portfolio with React + Astro</li>
-  <li>Government IT apprentice focused on growing in tech</li>
+<ul style="list-style-position: inside; padding-left: 0; margin: 0; text-align: center;">
+  <li>IT Operations Apprentice at the Norwegian Directorate for Education (Udir)</li>
+  <li>Work with IT support, troubleshooting, and system maintenance</li>
+  <li>Help schools and users during digital exams (support + incident handling)</li>
+  <li>Build internal tools and apps (AI assistants, web solutions)</li>
+  <li>Focus on frontend development (React, TypeScript, Tailwind)</li>
+  <li>Improve user experience (UI/UX) in internal systems</li>
+  <li>Interested in IT security and automation</li>
   <li>Click <a href="https://lbraten.xyz/" target="_blank">here</a> to visit my portfolio to read more</li>
 </ul>
 <br>
