@@ -30,16 +30,22 @@
 
 <img align="right" width="260" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTltcnhubWczbnExNWNjMDZjeW5hNzA5bnBqNndoa2xuYmNvcm0zNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" alt="Cat Typing" />
 
+<p style="margin: 0; text-align: center;">
+  I'm an IT Operations Apprentice at the Norwegian Directorate for Education (Udir), where I
+</p>
+
 <ul style="list-style-position: inside; padding-left: 0; margin: 0; text-align: center;">
-  <li>IT Operations Apprentice at the Norwegian Directorate for Education (Udir)</li>
-  <li>Work with IT support, troubleshooting, and system maintenance</li>
-  <li>Help schools and users during digital exams (support + incident handling)</li>
-  <li>Build internal tools and apps (AI assistants, web solutions)</li>
-  <li>Focus on frontend development (React, TypeScript, Tailwind)</li>
-  <li>Improve user experience (UI/UX) in internal systems</li>
-  <li>Interested in IT security and automation</li>
-  <li>Click <a href="https://lbraten.xyz/" target="_blank">here</a> to visit my website to read more</li>
+  <li>handle IT support, troubleshooting, and system maintenance</li>
+  <li>support schools and users during digital exams, including incident handling</li>
+  <li>build internal tools and applications, such as AI assistants and web solutions</li>
+  <li>focus on frontend development with React, TypeScript, and Tailwind</li>
+  <li>improve the user experience (UI/UX) in internal systems</li>
+  <li>explore IT security and automation in my spare time</li>
 </ul>
+
+<p style="margin: 0; text-align: center;">
+  You can read more on <a href="https://lbraten.xyz/" target="_blank">my website</a>.
+</p>
 <br clear="right" />
 <br>
 
